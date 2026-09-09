@@ -5,9 +5,7 @@
 This project focuses on analyzing drug sales data using Python. The aim is to understand sales patterns, identify trends, and generate meaningful insights from the given dataset.
 
 The project involves data loading, data cleaning, data processing, analysis, and visualization using Python.
-
 ## 🎯 Objectives
-
 - Analyze the given drug sales dataset
 - Clean and preprocess the data
 - Identify important sales trends and patterns
@@ -54,4 +52,5 @@ The project involves data loading, data cleaning, data processing, analysis, and
 
 ## 🚀 How to Run
 
-First,
+First, install the required libraries
+then run the program : python"drug sales analysis.py"
